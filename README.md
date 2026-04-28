@@ -1,10 +1,10 @@
-IC Trainer Kit Simulator
+# Digital IC Simulator
 
-Online IC trainer kit simulator for digital electronics students.  
-Simulate logic gate IC chips, 7400 series ICs, AND, OR, XOR, flip-flops, adders and trainer board experiments.
+Browser-based digital IC simulator for students.  
+Simulate logic gates, IC chips, flip-flops, adders, and digital electronics lab experiments online.
 
-Features
-- IC chip simulation
-- Online trainer kit
-- Digital electronics lab practice
-- Logic gate simulator
+## Features
+- Logic gate simulation
+- IC chip trainer mode
+- Interactive switches and LEDs
+- Online electronics lab practice
